@@ -1,3 +1,1 @@
-# Devcontainer with R Installation
-
-This repository houses a devcontainer example that contains R & JupyterLab. 
+### Devcontainer with R Installation and Workbook for Loading Data
